@@ -1,4 +1,10 @@
 ### Python template
+
+#boot.dev project
+books/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
